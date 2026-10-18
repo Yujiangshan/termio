@@ -14,7 +14,7 @@
 
 [**macOS 版をダウンロード**](https://downloads.termio.sh/termio.dmg) &nbsp;&bull;&nbsp; [ウェブサイト](https://termio.sh) &nbsp;&bull;&nbsp; [ドキュメント](https://termio.sh/docs) &nbsp;&bull;&nbsp; [変更履歴](https://termio.sh/changelog) &nbsp;&bull;&nbsp; [Discord](https://discord.gg/H9DKVwsE5f)
 
-<img alt="Atom One Dark の Codex、Claude Code、開発サーバー" src="web/landing/public/screenshots/hero1.png" width="100%" />
+<img alt="カードとして並ぶ 3 つの Termio セッション：Codex、Claude Code、開発サーバー" src="web/landing/public/screenshots/hero-tiled.png" width="100%" />
 
 </div>
 

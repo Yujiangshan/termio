@@ -12,7 +12,7 @@
 
 [**Download for macOS**](https://downloads.termio.sh/termio.dmg) &nbsp;&bull;&nbsp; [Website](https://termio.sh) &nbsp;&bull;&nbsp; [Docs](https://termio.sh/docs) &nbsp;&bull;&nbsp; [Changelog](https://termio.sh/changelog) &nbsp;&bull;&nbsp; [Discord](https://discord.gg/H9DKVwsE5f)
 
-<img alt="Codex and Claude Code with a development server in Atom One Dark" src="web/landing/public/screenshots/hero1.png" width="100%" />
+<img alt="Three Termio sessions as tiled cards: Codex, Claude Code and a development server" src="web/landing/public/screenshots/hero-tiled.png" width="100%" />
 
 </div>
 

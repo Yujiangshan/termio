@@ -55,9 +55,13 @@ export const downloadUrl = "https://downloads.termio.sh/termio.dmg";
 export const testflightUrl = "https://testflight.apple.com/join/1Arf1UKR";
 
 // Real app captures for the hero carousel (public/screenshots/hero*.png, all
-// 2584×1714 @2x, Atom One Dark). The first one is the LCP
-// image, so lead with the strongest shot.
+// 2584×1714 @2x, Atom One Dark; hero-tiled is a 3D render of a three-session
+// capture). The first one is the LCP image, so lead with the strongest shot.
 export const heroSlides = [
+  {
+    src: "/screenshots/hero-tiled.png?v=20261017",
+    alt: "Three Termio sessions as tiled cards: Codex, Claude Code and a development server.",
+  },
   {
     src: "/screenshots/hero1.png?v=20261017",
     alt: "Codex and Claude Code above a running development server in Atom One Dark.",

@@ -14,7 +14,7 @@
 
 [**下載 macOS 版**](https://downloads.termio.sh/termio.dmg) &nbsp;&bull;&nbsp; [官方網站](https://termio.sh) &nbsp;&bull;&nbsp; [文件](https://termio.sh/docs) &nbsp;&bull;&nbsp; [更新日誌](https://termio.sh/changelog) &nbsp;&bull;&nbsp; [Discord](https://discord.gg/H9DKVwsE5f)
 
-<img alt="Atom One Dark 主題下的 Codex、Claude Code 和開發伺服器" src="web/landing/public/screenshots/hero1.png" width="100%" />
+<img alt="三個 Termio 工作階段平鋪成卡片：Codex、Claude Code 和開發伺服器" src="web/landing/public/screenshots/hero-tiled.png" width="100%" />
 
 </div>
 

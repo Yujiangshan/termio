@@ -4,10 +4,11 @@ Desktop captures refreshed on 2026-10-17 with Computer Use from the running
 Termio app. Appearance is Dark with Atom One Dark. Agent output, source files,
 Git history, session states, and development-server requests are real.
 
-The five hero images are 2584 × 1714 pixels:
+The six hero images are 2584 × 1714 pixels:
 
 | Image | Contents |
 | --- | --- |
+| `hero-tiled.png` | Three sessions as tiled cards, a 3D render used in the README and as the first carousel slide |
 | `hero1.png` | Codex and Claude Code above a Next.js server and request logs |
 | `hero2.png` | Swift editor beside Claude Code |
 | `hero3.png` | Project search results beside Claude Code |
